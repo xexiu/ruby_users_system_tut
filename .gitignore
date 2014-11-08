@@ -15,3 +15,6 @@
 /log/*.log
 /tmp
 *.pdf
+
+# Ignoring .DS_Store
+.DS_Store
